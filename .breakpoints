@@ -1,0 +1,36 @@
+{
+  "files": {
+    "week06-app/.env.local": [
+      {
+        "id": "e1ad7d94-7cc2-41ab-94f9-38436e9d69e5",
+        "line": 1,
+        "version": 337,
+        "index": 0
+      }
+    ],
+    "week06-app/env.local": [
+      {
+        "id": "0d19323b-3f7e-4786-9b7f-28e64f68e959",
+        "line": 2,
+        "version": 0,
+        "index": 4
+      }
+    ],
+    "week06-app/pages/_app.js": [
+      {
+        "id": "49b46ba1-dc4a-46fc-8444-6a5d8537bef0",
+        "line": 8,
+        "version": 1,
+        "index": 137
+      }
+    ],
+    "week06-app/pages/api/resources.js": [
+      {
+        "id": "3e1bbfb9-b6ee-4dc7-8308-969a96ae348d",
+        "line": 35,
+        "version": 639,
+        "index": 651
+      }
+    ]
+  }
+}
